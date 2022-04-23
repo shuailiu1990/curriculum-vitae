@@ -1,8 +1,8 @@
 tex=latexmk
 #pdf_browser=/mnt/c/Program\ Files\ \(x86\)/Foxit\ Software/Foxit\ Reader/Foxit\ PDF\ Reader/FoxitPDFReader.exe#evince
 pdf_browser=evince
-target1=cv.tex
-target2=cv.pdf
+target1=publication-list.tex
+target2=publication-list.pdf
 main:
 	$(tex) -pdf -bibtex $(target1)  # -pdf -bibtex分别是将.tex编译为pdf文件和处理参考文献
 	$(pdf_browser) $(target2)       # 浏览pdf文件
