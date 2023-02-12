@@ -16,7 +16,7 @@ do
     echo $target
     if test -d $target
     then
-        if [ $target == "./cv" ] || [ $target == "./cv-chinese" ] || [ $target == "./cv-template" ] || [ $target == "./publications-list" ] || [ $target == "./recommendation-letter" ]
+        if [ $target == "./cv" ] || [ $target == "./cv-chinese" ] || [ $target == "./cv-template" ] || [ $target == "./publication-list" ] || [ $target == "./recommendation-letter" ]
         then
             cd $target
             make clean
