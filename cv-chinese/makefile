@@ -4,7 +4,7 @@ pdf_browser=evince
 target1=cv.tex
 target2=cv.pdf
 main:
-	$(tex) -pdf -bibtex $(target1)  # -pdf -bibtex分别是将.tex编译为pdf文件和处理参考文献
+	$(tex) -pdf -xelatex -bibtex $(target1)  # -pdf -bibtex分别是将.tex编译为pdf文件和处理参考文献
 	$(pdf_browser) $(target2)       # 浏览pdf文件
 
 clean:
