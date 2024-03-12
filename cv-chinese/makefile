@@ -1,6 +1,6 @@
 tex=latexmk
 #pdf_browser=/mnt/c/Program\ Files\ \(x86\)/Foxit\ Software/Foxit\ Reader/Foxit\ PDF\ Reader/FoxitPDFReader.exe#evince
-pdf_browser=evince
+pdf_browser=zathura #evince
 target1=cv.tex
 target2=cv.pdf
 main:
@@ -9,5 +9,5 @@ main:
 
 clean:
 	$(tex) -CA # 删除编译后产生的无用文件
-	-rm *.bbl  # 删除后缀为.bbl的所有文件 
-	-rm *.xml  # 删除.xml文件
+	#-rm *.bbl  # 删除后缀为.bbl的所有文件 
+	#-rm *.xml  # 删除.xml文件
