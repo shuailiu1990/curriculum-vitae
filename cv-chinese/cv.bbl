@@ -1,0 +1,414 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ymdnt/global//global/global}
+    \entry{Torres-Orjuela:2023hfd}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9fa46c1b9bed2a48b580874056629abc}{%
+           family={Alejandro},
+           familyi={A\bibinitperiod},
+           given={Torres-Orjuela},
+           giveni={T\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec430bf58d883c44cdb817998a8f7ec5}{%
+           family={Shun-Jia},
+           familyi={S\bibinithyphendelim J\bibinitperiod},
+           given={Huang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a02a4eeca843c1e7483a19fff775792}{%
+           family={Zheng-Cheng},
+           familyi={Z\bibinithyphendelim C\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c40e61b5265b6fd62a9f79bc63f45b6}{%
+           family={\textbf{Liu\bibnamedelimb Shuai（共同二作）}},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5282077134747812b3785ee1ed9af2b5}{%
+           family={Hai-Tian},
+           familyi={H\bibinithyphendelim T\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a74aa50feb9316d87e2b264bd4e6783}{%
+           family={Chang-Qing},
+           familyi={C\bibinithyphendelim Q\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3cc84a356c985aea8bc0be7da4367f2}{%
+           family={Yi-Ming},
+           familyi={Y\bibinithyphendelim M\bibinitperiod},
+           given={Hu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14c4899bf406e428b5a2b00fcd2a34cb}{%
+           family={Jianwei},
+           familyi={J\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a100f2c600406d4ee5eb861281e3ea86}
+      \strng{fullhash}{eb9f35f46b2b61d4f2fc8ff18f0e3658}
+      \strng{bibnamehash}{45a38171997e6ba0aaa7ca8dd8ea34f7}
+      \strng{authorbibnamehash}{45a38171997e6ba0aaa7ca8dd8ea34f7}
+      \strng{authornamehash}{a100f2c600406d4ee5eb861281e3ea86}
+      \strng{authorfullhash}{eb9f35f46b2b61d4f2fc8ff18f0e3658}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{gr-qc}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Sci. China Phys. Mech. Astron.}
+      \field{number}{5}
+      \field{title}{{Detection of astrophysical gravitational wave sources by TianQin and LISA}}
+      \field{volume}{67}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{259511}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s11433-023-2308-x
+      \endverb
+      \verb{eprint}
+      \verb 2307.16628
+      \endverb
+    \endentry
+    \entry{Liu:2023zea}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b5145ecb457fae21359fb0162b256c21}{%
+           family={\textbf{Liu\bibnamedelimb Shuai}},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=3eeff2e7661ee00bf17244ad891dc5e2}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3cc84a356c985aea8bc0be7da4367f2}{%
+           family={Yi-Ming},
+           familyi={Y\bibinithyphendelim M\bibinitperiod},
+           given={Hu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b73e77d79cca270371eaa5571e85590d}{%
+           family={Ataru},
+           familyi={A\bibinitperiod},
+           given={Tanikawa},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4e47a47ff55a3e591dd1eacec782938}{%
+           family={A.},
+           familyi={A\bibinitperiod},
+           given={Trani\bibnamedelima Alessandro},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6dadb93f2cdb07d95f05f821c4f3b107}
+      \strng{fullhash}{f78d5a50c8c3408d0e0baf767e8da667}
+      \strng{bibnamehash}{f78d5a50c8c3408d0e0baf767e8da667}
+      \strng{authorbibnamehash}{f78d5a50c8c3408d0e0baf767e8da667}
+      \strng{authornamehash}{6dadb93f2cdb07d95f05f821c4f3b107}
+      \strng{authorfullhash}{f78d5a50c8c3408d0e0baf767e8da667}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.GA}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Mon. Not. Roy. Astron. Soc.}
+      \field{title}{{Merging Hierarchical Triple Black Hole Systems with Intermediate-mass Black Holes in Population III Star Clusters}}
+      \field{volume}{533}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{2262\bibrangedash 2281}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1093/mnras/stae1946
+      \endverb
+      \verb{eprint}
+      \verb 2311.05393
+      \endverb
+    \endentry
+    \entry{Liu:2021yoy}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2b9536d95bff1ccc1a54a54561bb9c66}{%
+           family={{\textbf{Liu Shuai}$^{\dagger}$, Zhu Liang-Gui and Hu Yi-Ming$^{ \dagger}$ and Zhang Jian-dong and Ji Mu-Jie}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b9536d95bff1ccc1a54a54561bb9c66}
+      \strng{fullhash}{2b9536d95bff1ccc1a54a54561bb9c66}
+      \strng{bibnamehash}{2b9536d95bff1ccc1a54a54561bb9c66}
+      \strng{authorbibnamehash}{2b9536d95bff1ccc1a54a54561bb9c66}
+      \strng{authornamehash}{2b9536d95bff1ccc1a54a54561bb9c66}
+      \strng{authorfullhash}{2b9536d95bff1ccc1a54a54561bb9c66}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{number}{2}
+      \field{title}{\textbf{Capability for detection of GW190521-like binary black holes with TianQin}}
+      \field{volume}{105}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{023019}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.105.023019
+      \endverb
+      \verb{eprint}
+      \verb 2110.05248
+      \endverb
+    \endentry
+    \entry{Zhu:2021bpp}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e948ce8fe5fb2a2bb00df54bd0cf57b}{%
+           family={{Zhu Liang-Gui and Xie Ling-Hua and Hu Yi-Ming$^{\dagger}$ and \textbf{Liu Shuai}$^{\dagger}$ and Li En-Kun$^{\dagger}$ and Napolitano Nicola R. and Tang Bai-Tian and Zhang Jian-dong and Mei Jianwei}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e948ce8fe5fb2a2bb00df54bd0cf57b}
+      \strng{fullhash}{0e948ce8fe5fb2a2bb00df54bd0cf57b}
+      \strng{bibnamehash}{0e948ce8fe5fb2a2bb00df54bd0cf57b}
+      \strng{authorbibnamehash}{0e948ce8fe5fb2a2bb00df54bd0cf57b}
+      \strng{authornamehash}{0e948ce8fe5fb2a2bb00df54bd0cf57b}
+      \strng{authorfullhash}{0e948ce8fe5fb2a2bb00df54bd0cf57b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.CO}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Sci. China: Phys. Mech. Astron.}
+      \field{number}{5}
+      \field{title}{\textbf{Constraining the Hubble constant to a precision of about 1 \% using multi-band dark standard siren detections}}
+      \field{volume}{65}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{259811}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s11433-021-1859-9
+      \endverb
+      \verb{eprint}
+      \verb 2110.05224
+      \endverb
+    \endentry
+    \entry{Tam:2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63be8b9ec25f5fd7dabd08386e3c1ffa}{%
+           family={{Tam Pakhin$^{\dagger}$ and Ou Ziwei and \textbf{Liu Shuai} and Lei Weihua and Hu Yiming}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{63be8b9ec25f5fd7dabd08386e3c1ffa}
+      \strng{fullhash}{63be8b9ec25f5fd7dabd08386e3c1ffa}
+      \strng{bibnamehash}{63be8b9ec25f5fd7dabd08386e3c1ffa}
+      \strng{authorbibnamehash}{63be8b9ec25f5fd7dabd08386e3c1ffa}
+      \strng{authornamehash}{63be8b9ec25f5fd7dabd08386e3c1ffa}
+      \strng{authorfullhash}{63be8b9ec25f5fd7dabd08386e3c1ffa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Scientiarum Naturalium Universitatis Sunyatseni}
+      \field{number}{1}
+      \field{title}{\textbf{Stellar-mass binary black holes: Inspirals and their detection}}
+      \field{volume}{60}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.13471/j.cnki.acta.snus.2020.11.14.2020B134
+      \endverb
+    \endentry
+    \entry{Yan:20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02796641472104b61f3eb03b6ce75742}{%
+           family={{Yan Hao and Mao Qiuli and Xie Siyuan and \textbf{Liu Shuai} and Luo Jun and Yeh Hsien-chi$^{\dagger}$}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optica Publishing Group}%
+      }
+      \strng{namehash}{02796641472104b61f3eb03b6ce75742}
+      \strng{fullhash}{02796641472104b61f3eb03b6ce75742}
+      \strng{bibnamehash}{02796641472104b61f3eb03b6ce75742}
+      \strng{authorbibnamehash}{02796641472104b61f3eb03b6ce75742}
+      \strng{authornamehash}{02796641472104b61f3eb03b6ce75742}
+      \strng{authorfullhash}{02796641472104b61f3eb03b6ce75742}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Opt. Lett.}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{\textbf{Highly linear sub-nanoradian tilt measurement based on dual-beam interferometry}}
+      \field{volume}{45}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{2792\bibrangedash 2795}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1364/OL.392856
+      \endverb
+      \verb{urlraw}
+      \verb https://opg.optica.org/ol/abstract.cfm?URI=ol-45-10-2792
+      \endverb
+      \verb{url}
+      \verb https://opg.optica.org/ol/abstract.cfm?URI=ol-45-10-2792
+      \endverb
+      \keyw{Gaussian beams; Laser beams; Light fields; Light properties; Optical components; Systems design}
+    \endentry
+    \entry{Liu:2020eko}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=009af8f8bc62e943a61431c97f88987c}{%
+           family={{\textbf{Liu Shuai}$^{\dagger}$ and Hu Yi-Ming$^{\dagger}$ and Zhang Jian-dong$^{\dagger}$ and Mei Jianwei$^{\dagger}$}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{009af8f8bc62e943a61431c97f88987c}
+      \strng{fullhash}{009af8f8bc62e943a61431c97f88987c}
+      \strng{bibnamehash}{009af8f8bc62e943a61431c97f88987c}
+      \strng{authorbibnamehash}{009af8f8bc62e943a61431c97f88987c}
+      \strng{authornamehash}{009af8f8bc62e943a61431c97f88987c}
+      \strng{authorfullhash}{009af8f8bc62e943a61431c97f88987c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{astro-ph.HE}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Phys. Rev. D}
+      \field{number}{10}
+      \field{title}{\textbf{Science with the TianQin observatory: Preliminary results on stellar-mass binary black holes}}
+      \field{volume}{101}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{103027}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevD.101.103027
+      \endverb
+      \verb{eprint}
+      \verb 2004.14242
+      \endverb
+    \endentry
+    \entry{Wang:2016jov}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d6ebbebb7ae7f2dcf41c7bdefde10466}{%
+           family={{Wang Yong-Qiang and \textbf{Liu Shuai}$^{\dagger}$}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6ebbebb7ae7f2dcf41c7bdefde10466}
+      \strng{fullhash}{d6ebbebb7ae7f2dcf41c7bdefde10466}
+      \strng{bibnamehash}{d6ebbebb7ae7f2dcf41c7bdefde10466}
+      \strng{authorbibnamehash}{d6ebbebb7ae7f2dcf41c7bdefde10466}
+      \strng{authornamehash}{d6ebbebb7ae7f2dcf41c7bdefde10466}
+      \strng{authorfullhash}{d6ebbebb7ae7f2dcf41c7bdefde10466}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-th}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{JHEP}
+      \field{title}{\textbf{Holographic s-wave and p-wave Josephson junction with backreaction}}
+      \field{volume}{11}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{127}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/JHEP11(2016)127
+      \endverb
+      \verb{eprint}
+      \verb 1608.06364
+      \endverb
+    \endentry
+    \entry{Liu:2015zca}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53e43fbf771606badc38f5a16b20e1f1}{%
+           family={{\textbf{Liu Shuai} and Wang Yong-Qiang$^{\dagger}$}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{53e43fbf771606badc38f5a16b20e1f1}
+      \strng{fullhash}{53e43fbf771606badc38f5a16b20e1f1}
+      \strng{bibnamehash}{53e43fbf771606badc38f5a16b20e1f1}
+      \strng{authorbibnamehash}{53e43fbf771606badc38f5a16b20e1f1}
+      \strng{authornamehash}{53e43fbf771606badc38f5a16b20e1f1}
+      \strng{authorfullhash}{53e43fbf771606badc38f5a16b20e1f1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-th}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Eur. Phys. J. C}
+      \field{number}{10}
+      \field{title}{\textbf{Holographic model of hybrid and coexisting s-wave and p-wave Josephson junction}}
+      \field{volume}{75}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{493}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1140/epjc/s10052-015-3692-2
+      \endverb
+      \verb{eprint}
+      \verb 1504.06918
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
