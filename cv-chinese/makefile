@@ -1,6 +1,6 @@
 tex=latexmk
 #pdf_browser=/mnt/c/Program\ Files\ \(x86\)/Foxit\ Software/Foxit\ Reader/Foxit\ PDF\ Reader/FoxitPDFReader.exe#evince
-pdf_browser=evince
+pdf_browser=zathura
 target1=cv.tex
 target2=cv.pdf
 main:
